@@ -1,0 +1,14 @@
+<notes>
+	<note>
+		<to>Foo</to>
+		<from>Bar</from>
+	</note>
+	<note>
+		<to>Foo2</to>
+		<from>Bar2</from>
+		<apples>
+			<apple>orange</apple>
+			<apple>banana</apple>
+		</apples>
+	</note>
+</notes>
